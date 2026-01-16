@@ -9,9 +9,6 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
 ## 별빛 우체국 티저 영상
-
-[[티저 영상 보기](https://img.youtube.com/vi/GFwBIZXWsVE/maxresdefault.jpg)](https://youtube.com/shorts/GFwBIZXWsVE)
-
 [YouTube Shorts에서 보기](https://youtube.com/shorts/GFwBIZXWsVE)
 
 
