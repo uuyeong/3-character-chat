@@ -8,16 +8,16 @@
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-0.4.24-orange.svg)](https://www.trychroma.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
-## 티저 영상
+## 별빛 우체국 티저 영상
 
-[![티저 영상](https://img.youtube.com/vi/GFwBIZXWsVE/maxresdefault.jpg)](https://youtube.com/shorts/GFwBIZXWsVE)
+[[티저 영상 보기](https://img.youtube.com/vi/GFwBIZXWsVE/maxresdefault.jpg)](https://youtube.com/shorts/GFwBIZXWsVE)
 
 [YouTube Shorts에서 보기](https://youtube.com/shorts/GFwBIZXWsVE)
 
 
 ## 제작한 Image
 
-[Image 모음 페이지](IMAGE_COLLECTION.md)
+[IMAGE_COLLECTION.md](IMAGE_COLLECTION.md)
 
 ---
 
