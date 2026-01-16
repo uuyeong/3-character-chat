@@ -1,4 +1,4 @@
-# Image 모음
+# Image 
 
 ## background
 
@@ -55,28 +55,28 @@
 ## stamp
 
 <div align="left">
-  <img src="static/images/chatbot/stamp/A_1.png" alt="A_1" width="100" />
-  <img src="static/images/chatbot/stamp/A_2.png" alt="A_2" width="100" />
-  <img src="static/images/chatbot/stamp/A_3.png" alt="A_3" width="100" />
-  <img src="static/images/chatbot/stamp/A_4.png" alt="A_4" width="100" />
-  <img src="static/images/chatbot/stamp/D_1.png" alt="D_1" width="100" />
-  <img src="static/images/chatbot/stamp/D_2.png" alt="D_2" width="100" />
-  <img src="static/images/chatbot/stamp/D_3.png" alt="D_3" width="100" />
-  <img src="static/images/chatbot/stamp/D_4.png" alt="D_4" width="100" />
-  <img src="static/images/chatbot/stamp/D_5.png" alt="D_5" width="100" />
-  <img src="static/images/chatbot/stamp/L_1.png" alt="L_1" width="100" />
+  <img src="static/images/chatbot/stamp/A_1.png" alt="A_1" width="90" />
+  <img src="static/images/chatbot/stamp/A_2.png" alt="A_2" width="90" />
+  <img src="static/images/chatbot/stamp/A_3.png" alt="A_3" width="90" />
+  <img src="static/images/chatbot/stamp/A_4.png" alt="A_4" width="90" />
+  <img src="static/images/chatbot/stamp/D_1.png" alt="D_1" width="90" />
+  <img src="static/images/chatbot/stamp/D_2.png" alt="D_2" width="90" />
+  <img src="static/images/chatbot/stamp/D_3.png" alt="D_3" width="90" />
+  <img src="static/images/chatbot/stamp/D_4.png" alt="D_4" width="90" />
+  <img src="static/images/chatbot/stamp/D_5.png" alt="D_5" width="90" />
+  <img src="static/images/chatbot/stamp/L_1.png" alt="L_1" width="90" />
 </div>
 
 <div align="left">
-  <img src="static/images/chatbot/stamp/L_2.png" alt="L_2" width="100" />
-  <img src="static/images/chatbot/stamp/L_3.png" alt="L_3" width="100" />
-  <img src="static/images/chatbot/stamp/L_4.png" alt="L_4" width="100" />
-  <img src="static/images/chatbot/stamp/L_5.png" alt="L_5" width="100" />
-  <img src="static/images/chatbot/stamp/L_6.png" alt="L_6" width="100" />
-  <img src="static/images/chatbot/stamp/R_1.png" alt="R_1" width="100" />
-  <img src="static/images/chatbot/stamp/R_2.png" alt="R_2" width="100" />
-  <img src="static/images/chatbot/stamp/R_3.png" alt="R_3" width="100" />
-  <img src="static/images/chatbot/stamp/R_4.png" alt="R_4" width="100" />
+  <img src="static/images/chatbot/stamp/L_2.png" alt="L_2" width="90" />
+  <img src="static/images/chatbot/stamp/L_3.png" alt="L_3" width="90" />
+  <img src="static/images/chatbot/stamp/L_4.png" alt="L_4" width="90" />
+  <img src="static/images/chatbot/stamp/L_5.png" alt="L_5" width="90" />
+  <img src="static/images/chatbot/stamp/L_6.png" alt="L_6" width="90" />
+  <img src="static/images/chatbot/stamp/R_1.png" alt="R_1" width="90" />
+  <img src="static/images/chatbot/stamp/R_2.png" alt="R_2" width="90" />
+  <img src="static/images/chatbot/stamp/R_3.png" alt="R_3" width="90" />
+  <img src="static/images/chatbot/stamp/R_4.png" alt="R_4" width="90" />
 </div>
 
 ## 기타
