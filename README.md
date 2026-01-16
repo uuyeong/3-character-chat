@@ -8,6 +8,19 @@
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-0.4.24-orange.svg)](https://www.trychroma.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
+## 티저 영상
+
+[![티저 영상](https://img.youtube.com/vi/GFwBIZXWsVE/maxresdefault.jpg)](https://youtube.com/shorts/GFwBIZXWsVE)
+
+[YouTube Shorts에서 보기](https://youtube.com/shorts/GFwBIZXWsVE)
+
+
+## 제작한 Image
+
+[Image 모음 페이지](IMAGE_COLLECTION.md)
+
+---
+
 ## 프로젝트 개요
 
 별빛 우체국은 RAG 기반의 감정 분석 및 심층 상담 챗봇입니다. 이곳의 국장인 부엉은 사용자의 감정을 이성적으로 분석하고, 후회, 사랑, 불안, 꿈의 주제별 방을 탐험하도록 안내합니다. 
